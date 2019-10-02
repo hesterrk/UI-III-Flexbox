@@ -194,6 +194,8 @@ display: flex;
 
 .servicesheader1 {
 	background-color: red;
+	border-bottom: 2px black solid;
+	padding-bottom: 30px;
 	
 }
 
