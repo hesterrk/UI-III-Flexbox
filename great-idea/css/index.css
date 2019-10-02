@@ -285,6 +285,10 @@ display: flex;
 
 
 
+
 .bullets {
 list-style-type: square;
+display: flex;
+flex-direction: column;
+
 }
