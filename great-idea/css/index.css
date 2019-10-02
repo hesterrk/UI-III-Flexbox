@@ -175,7 +175,6 @@ a {
 
 
 
-
 .servicesnavigation {
 
 display: flex;
@@ -191,10 +190,36 @@ display: flex;
 	display: flex;
 	justify-content:flex-end;
 	width: 40%
-
-
-
-
-
 }
 
+.servicesheader1 {
+	border: 1px red solid;
+}
+
+.alignthis {
+	display:flex;
+	text-align: center;
+	width: 25%;
+	padding-left:0px;
+	padding-top: 10px;
+	padding-bottom: 0px;
+
+
+	
+ 
+}
+
+h1 {
+	font-size: 30px;
+}
+
+.alsoalign {
+	display:flex;
+	text-align: center;
+}
+
+
+.secondmain {
+	display: flex;
+	
+}
