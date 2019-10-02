@@ -58,6 +58,7 @@ html, body {
 html {
 	margin: 0 auto;
 	width: 876px;
+
 }
 
 h1, h2, h3, h4, h5 {
@@ -76,17 +77,15 @@ h1 {
 }
 
 #startbutton {
-	margin: 20px;
+	margin: 0 auto;
 	color: black;
 	border: 1px solid black;
-	display: inline;
-	
-	
-	 
-
+	width: 30%;
 
 	text-align: center;
 	padding: 10px;
+
+
 
 
 }
@@ -152,9 +151,27 @@ header {
 	display: flex;
 	justify-content: space-between;
 	margin: 20px 0 35px 0;
+	text-decoration:none;
+	
 	
 }
 footer {
 	padding: 20px;
 	text-align: center;
 }
+
+
+a {
+    text-decoration: none;
+}
+
+
+
+
+.servicesnavigation {
+
+border: 1px red solid;
+}
+
+
+
