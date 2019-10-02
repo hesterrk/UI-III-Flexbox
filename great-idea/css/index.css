@@ -176,8 +176,6 @@ a {
 
 
 
-
-
 .servicesnavigation {
 
 border: 1px red solid;
@@ -185,8 +183,19 @@ display: flex;
 	justify-content: space-between;
 	margin: 20px 0 35px 0;
 	text-decoration:none;
-	width: 600px;
+	width: 880px;
+	color: black;
 }
 
+.greatideatext {
+	background-color: blue;
+	display: flex;
+	justify-content:flex-end;
+	width: 40%
 
+
+
+
+
+}
 
