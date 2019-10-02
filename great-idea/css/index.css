@@ -279,7 +279,9 @@ display: flex;
 
 }
 
-
+#facts {
+	padding-top: 40px;
+}
 
 
 
