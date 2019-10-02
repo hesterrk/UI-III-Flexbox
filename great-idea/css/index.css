@@ -193,7 +193,8 @@ display: flex;
 }
 
 .servicesheader1 {
-	border: 1px red solid;
+	background-color: red;
+	
 }
 
 .alignthis {
@@ -219,14 +220,24 @@ display: flex;
 
 .secondmain {
 	background-color: grey;
-	border: 1px blue solid;
+	border-bottom:2px black solid;
+	padding-left: 10px;
+	padding-right: 10px;
+	
 }
 
 
 .firstbox, .box1 {
-	color: yellow;
+	background-color: yellow;
 	width: 40%;
+    padding: 40px 40px 40px 40px;
+	border: 2px black solid;
 	display: inline-block;
+	margin: 35px;
+	
+	
+
+	
 	
 }
 
