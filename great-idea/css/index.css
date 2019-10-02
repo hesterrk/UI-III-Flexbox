@@ -246,10 +246,13 @@ display: flex;
 .learn {
 	border:1px solid black;
 	width:50%;
-	margin: 10px;
+	margin-right: 10px;
+	margin-top: 20px;
 	padding-left: 20px;
 	padding-right: 20px;
 	border-radius: 3px;
+	padding-top: 10px;
+	padding-bottom: 10px;
 	
 	
 }
