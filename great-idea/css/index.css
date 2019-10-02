@@ -267,7 +267,17 @@ display: flex;
 
 }
 
+.thirdbox, .thirdthirdbox {
+	background-color: pink;
+	width: 40%;
+	padding: 40px 40px 40px 40px;
+	border: 2px black solid;
+	display: inline-block;
+	margin: 35px;
 
+
+
+}
 
 
 
