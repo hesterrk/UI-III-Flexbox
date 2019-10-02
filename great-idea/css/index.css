@@ -193,7 +193,7 @@ display: flex;
 }
 
 .servicesheader1 {
-	background-color: red;
+	
 	border-bottom: 2px black solid;
 	padding-bottom: 30px;
 	
@@ -221,7 +221,7 @@ display: flex;
 }
 
 .secondmain {
-	background-color: grey;
+	
 	border-bottom:2px black solid;
 	padding-left: 10px;
 	padding-right: 10px;
@@ -230,7 +230,7 @@ display: flex;
 
 
 .firstbox, .box1 {
-	background-color: yellow;
+	
 	width: 40%;
     padding: 40px 40px 40px 40px;
 	border: 2px black solid;
@@ -284,12 +284,29 @@ display: flex;
 }
 
 
+.factual, .services-info-img {
+	border: 5px blue solid;
+	width: 40%;
+	padding: 5px 40px 10px 40px;
+	display: inline-block;
+	margin: 35px;
+
+}
 
 
 .bullets {
 list-style-type: square;
 display: flex;
 flex-direction: column;
-
+justify-content: space-around;
 
 }
+
+
+	
+
+ 
+
+
+	
+
