@@ -222,3 +222,10 @@ display: flex;
 	display: flex;
 	
 }
+
+
+
+
+.bullets {
+list-style-type: square;
+}
