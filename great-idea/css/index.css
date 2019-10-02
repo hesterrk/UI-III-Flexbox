@@ -203,15 +203,14 @@ display: flex;
 	padding-left:0px;
 	padding-top: 10px;
 	padding-bottom: 0px;
+	font-size: 40px;
 
 
 	
  
 }
 
-h1 {
-	font-size: 30px;
-}
+
 
 .alsoalign {
 	display:flex;
