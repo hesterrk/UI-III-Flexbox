@@ -217,11 +217,18 @@ display: flex;
 	text-align: center;
 }
 
-
 .secondmain {
-	display: flex;
-	
+	background-color: grey;
+	border: 1px blue solid;
 }
+
+
+
+
+
+
+
+
 
 
 
