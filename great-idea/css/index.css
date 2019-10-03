@@ -225,6 +225,9 @@ display: flex;
 	border-bottom:2px black solid;
 	padding-left: 10px;
 	padding-right: 10px;
+	display: inline-block;
+	flex-direction: column;
+
 	
 }
 
@@ -234,9 +237,10 @@ display: flex;
 	width: 40%;
     padding: 40px 40px 40px 40px;
 	border: 2px black solid;
-	display: inline-block;
 	margin: 35px;
 	background-color: #D3D3D3;
+	display:inline-block;
+	
 	
 	
 
